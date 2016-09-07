@@ -4,3 +4,9 @@ test "testear el hobby de mariela" {
 	assert.equals("Leer", mariela.hobby())
 
 }
+
+test "testear el hobby de maria" {
+	
+	assert.equals("Ir al cine", maria.hobby())
+
+}
